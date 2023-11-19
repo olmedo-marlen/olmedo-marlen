@@ -3,15 +3,15 @@
 
 <p align="left"> <a href="https://twitter.com/marlen_mamiii" target="blank"><img src="https://img.shields.io/twitter/follow/marlen_mamiii?logo=twitter&style=for-the-badge" alt="marlen_mamiii" /></a> </p>
 
-- 🔭 I’m currently working on [my first client and #100Devs.](Project link Coming Soon!)
+- 🔭 I’m currently working on my portfolio site at marlenolmedo.co
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **JavaScript** and acitvely engaged with #100Devs.
 
 - 👯 I’m looking to collaborate on **open source.**
 
 - 🤝 I’m looking for help with **helping my cat lose weight.**
 
-- 👨‍💻 All of my projects are available at [marlenolmedo.co](marlenolmedo.co)
+- 👨‍💻 All of my projects will be available at [marlenolmedo.co](marlenolmedo.co)
 
 - 💬 Ask me about **cats and food.**
 
