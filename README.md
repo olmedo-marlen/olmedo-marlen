@@ -1,4 +1,7 @@
 
+![Beige Simple Elegant Personal LinkedIn Banner](https://github.com/olmedo-marlen/olmedo-marlen/assets/79963295/50148ccc-7981-45bd-b8a6-0097f06de6ab)
+
+
 
  
 <h1 align="center">Hi 👋, I'm Marlen (:</h1>
