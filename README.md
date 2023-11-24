@@ -1,5 +1,4 @@
-<div class="image"
-![Beige Simple Elegant Personal LinkedIn Banner](https://github.com/olmedo-marlen/olmedo-marlen/assets/79963295/c01d1807-d7ad-4c70-9124-c0d2dafb1507)
+
 
  
 <h1 align="center">Hi 👋, I'm Marlen (:</h1>
