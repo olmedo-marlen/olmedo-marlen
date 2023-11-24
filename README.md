@@ -5,11 +5,11 @@
 
 - 🔭 I’m currently working on my portfolio site at marlenolmedo.co
 
-- 🌱 I’m currently learning **JavaScript** and acitvely engaged with #100Devs.
+- 🌱 I’m currently learning **JavaScript** and actively engaged on #100Devs.
 
-- 👯 I’m looking to collaborate on **open source.**
+- 👯 I’m looking to collaborate on **open source soon.**
 
-- 🤝 I’m looking for help with **helping my cat lose weight.**
+- 🤝 I’m looking for help with **keeping my freelance happy.**
 
 - 👨‍💻 All of my projects will be available at [marlenolmedo.co](marlenolmedo.co)
 
